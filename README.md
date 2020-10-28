@@ -1,0 +1,2 @@
+# Start template 2020
+# GULP, PUG, SCSS, BROWSER SYNC, LINTERS
